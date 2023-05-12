@@ -1,0 +1,24 @@
+
+.card .btn {
+    width: 100%;
+    height: 48px;
+    background-color: #172b2e;
+    color: whitesmoke;
+    font-weight: 900;
+    transition: .5s ease;
+    border: 2px solid transparent;
+  }
+  .card .btn:hover {
+    background-color: white;
+    color: #172b2e;
+    border: 2px solid #172b2e;
+  }
+
+  .choose-btn,.preview-img{
+    height: 200px;
+    width: 300px;
+    border: 2px dashed #172b2e;
+    color: #172b2e;
+    cursor: pointer;
+  }
+  

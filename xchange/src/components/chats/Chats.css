@@ -1,0 +1,36 @@
+
+.chats_section{
+    min-height: 80vh;
+    position: fixed;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.input-group{
+    position: absolute;
+    bottom: 0px;
+    /* margin-top:50px; */
+}
+.member_container{
+    cursor: pointer;
+    transition: 0.5s ease;
+}
+.member_container:hover{
+    background-color: #eee;
+}
+
+.chats{
+    height: 600px;
+}
+
+
+.members{
+    height: 600px;
+    overflow-y: scroll;
+}
+
+.chats::-webkit-scrollbar,
+.members::-webkit-scrollbar{
+    display: none;
+}

@@ -1,0 +1,20 @@
+
+ .productDetails {
+    border: 1px solid black;
+    padding: 6px;
+    width: 100%;
+    color:#000;
+    
+  }
+  
+ .contactDetails {
+    border: 1px solid black;
+    padding: 6px;
+    color:#000;
+  }
+
+
+  .description{
+    margin-top: -30px;
+  }
+  
